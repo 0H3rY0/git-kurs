@@ -1,3 +1,4 @@
 1.wyrzucic smieci
 2.nauczyc sie gita
 3.ukonczyc kurs
+4.nic nie robic
